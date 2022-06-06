@@ -5,19 +5,19 @@ Player,Enemies,Objects,Obstacles,Bullets,Attack,Collision,Upgrading to levels,Di
 Platform
 Developed in Visual Studio 2010
 
-Language
+###Language
 C++
 
-How to run "WarFare"
+###How to run "WarFare"
 Install "Visual Studio 2010" On your Pc
 
 1st Download the zip file
 Unzip the file
 Click on WarFare-master->warfare complete.sln
 Finally run the Project
-Features
+###Features
 
-Level-1:
+#Level-1:
 
 Enemies moving
 Enemy shooting
@@ -25,7 +25,8 @@ Player moving
 Player shooting
 Background moving
 Destroy enemies to go to next level
-Level-2:
+
+#Level-2:
 
 Planes moving
 Planes dropping bomb
