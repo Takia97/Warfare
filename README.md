@@ -11,22 +11,25 @@ C++
 How to run "WarFare"
 Install "Visual Studio 2010" On your Pc
 
-1.1st Download the zip file
-2.Unzip the file
-3.Click on WarFare-master->warfare complete.sln
-4.Finally run the Project
+1st Download the zip file
+Unzip the file
+Click on WarFare-master->warfare complete.sln
+Finally run the Project
 Features
+
 Level-1:
-1.Enemies moving
-2.Enemy shooting
-3.Player moving
-4.Player shooting
-5.Background moving
-6.Destroy enemies to go to next level
+
+Enemies moving
+Enemy shooting
+Player moving
+Player shooting
+Background moving
+Destroy enemies to go to next level
 Level-2:
-1.Planes moving
-2.Planes dropping bomb
-3.Planes shooting
-4.Player shooting
-5.Player tackling bomb
-6.Player needs to destroy planes to finish level
+
+Planes moving
+Planes dropping bomb
+Planes shooting
+Player shooting
+Player tackling bomb
+Player needs to destroy planes to finish level
